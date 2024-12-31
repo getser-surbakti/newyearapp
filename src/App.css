@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+  font-family: Arial, sans-serif;
+  padding: 50px;
+}
+
+.App-header {
+  font-size: 2em;
+}
+
+.countdown {
+  font-size: 1.5em;
+  margin: 20px 0;
+}
+
+.countdown p {
+  margin: 10px 0;
+}
